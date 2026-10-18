@@ -4,7 +4,7 @@ Numerical certificate under floating arithmetic; not a machine-checked real proo
 """
 import math,heapq,itertools,json
 from pathlib import Path
-from verify import geometry
+from geometry import geometry
 R=Path(__file__).resolve().parent.parent
 
 def box(p):return (min(x for x,y in p),min(y for x,y in p),max(x for x,y in p),max(y for x,y in p))

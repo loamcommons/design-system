@@ -1,50 +1,11 @@
 #!/usr/bin/env python3
 """Finite artifact audit: exact path identity and analytic cubic extrema, not reader validation."""
 from pathlib import Path
-import json,re,math,hashlib,subprocess,struct,sys,xml.etree.ElementTree as ET
+import json,hashlib,subprocess,struct,sys,xml.etree.ElementTree as ET
 from imagemagick import command
+from geometry import geometry, bounds
 ROOT=Path(__file__).resolve().parent.parent
 M=json.loads((ROOT/'source/master.json').read_text());NS={'s':'http://www.w3.org/2000/svg'}
-
-def geometry(d):
- t=re.findall(r'[MLCHVZ]|-?(?:\d*\.\d+|\d+)',d);i=0;cur=None;start=None;segments=[];closed=0
- def take(n):
-  nonlocal i
-  v=[float(x) for x in t[i:i+n]]; i+=n
-  assert all(math.isfinite(x) for x in v)
-  return v
- while i<len(t):
-  c=t[i];i+=1
-  if c=='M':
-   assert start is None,'unclosed contour'
-   cur=tuple(take(2));start=cur
-  elif c in ['L','H','V']:
-   v=take(2 if c=='L' else 1);end=tuple(v) if c=='L' else ((v[0],cur[1]) if c=='H' else (cur[0],v[0]))
-   segments.append((cur,end));cur=end
-  elif c=='C':
-   v=take(6);p1=tuple(v[:2]);p2=tuple(v[2:4]);end=tuple(v[4:]);segments.append((cur,p1,p2,end));cur=end
-  elif c=='Z':
-   if cur!=start:segments.append((cur,start))
-   cur=start;start=None;closed+=1
-  else:raise ValueError(c)
- assert start is None and closed
- return segments,closed
-
-def bounds(segments):
- vals=[[],[]]
- for seg in segments:
-  for k in [0,1]:
-   q=[p[k] for p in seg];vals[k]+=q[:1]+q[-1:]
-   if len(q)==4:
-    a=-q[0]+3*q[1]-3*q[2]+q[3]; b=2*(q[0]-2*q[1]+q[2]);c=q[1]-q[0]
-    roots=[]
-    if abs(a)<1e-12:
-     if abs(b)>1e-12:roots=[-c/b]
-    elif b*b-4*a*c>=0:
-     disc=math.sqrt(b*b-4*a*c); roots=[(-b+disc)/(2*a),(-b-disc)/(2*a)]
-    for x in roots:
-     if 0<x<1:vals[k].append((1-x)**3*q[0]+3*(1-x)**2*x*q[1]+3*(1-x)*x*x*q[2]+x**3*q[3])
- return [min(vals[0]),min(vals[1]),max(vals[0]),max(vals[1])]
 
 def main():
  info={g:{'bounds':bounds(geometry(d)[0]),'closed_contours':geometry(d)[1],'cubic_segments':sum(len(s)==4 for s in geometry(d)[0]),'path_sha256':hashlib.sha256(d.encode()).hexdigest()} for g,d in M['paths'].items()}

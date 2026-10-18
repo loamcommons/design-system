@@ -4,7 +4,8 @@ Usage: python3 source/build.py [--render | --check]
 Requires Python >=3.10; --render additionally requires rsvg-convert.
 """
 from pathlib import Path
-import json, hashlib, subprocess, sys, xml.etree.ElementTree as ET
+import json, hashlib, subprocess, sys
+from geometry import geometry
 ROOT=Path(__file__).resolve().parent.parent
 MASTER=json.loads((ROOT/'source/master.json').read_text())
 NS='http://www.w3.org/2000/svg'
@@ -35,6 +36,8 @@ def svg(name,color='ink',square=False):
 </svg>\n'''
 
 def main():
+    for path in MASTER['paths'].values():
+        geometry(path)
     for folder in ['svg','png','comparison']:(ROOT/folder).mkdir(exist_ok=True)
     manifest=[]; render_inputs={}
     check='--check' in sys.argv
