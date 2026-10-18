@@ -4,6 +4,8 @@
 
 Canonical identity for [Loam Commons](https://github.com/loamcommons) and [Loam](https://github.com/loamcommons/loam): one shared L, an LC monogram, custom outlined lettering, and reproducible exports.
 
+**[Open the design-system guide](https://loamcommons.github.io/design-system/)** to explore the construction, spacing, light and dark variants, and actual-size specimens.
+
 Loam is the substrate. Commons is the shared work it supports. In the LC mark, the L supports and shelters the nested C while the C opens outward. This is the intended meaning; it is not a claim that every viewer will read the mark that way.
 
 The scope is the visual identity. This repository does not yet define a UI component library, application typography, or a broader product design system.
@@ -16,7 +18,7 @@ The scope is the visual identity. This repository does not yet define a UI compo
 - Keep the included clear space and scale uniformly. The exact coordinates, spacing, and screen minima are in the [construction guide](index.html) and [editable master](source/master.json).
 - The [GitHub avatar and social preview](github/) are derived upload canvases. They were applied to the organization and repository on October 18, 2026.
 
-Download or clone the repository, then open `index.html` in a browser. The guide embeds its artwork and needs no server. The separate-symbol Loam arrangement is retained in `comparison/` as evidence of the two-way design comparison; it is not the recommended product wordmark.
+The live guide is published from this repository’s protected `main` branch through GitHub Pages. For offline use, download or clone the repository and open `index.html` in a browser; its artwork is embedded and needs no server. The separate-symbol Loam arrangement is retained in `comparison/` as evidence of the two-way design comparison; it is not the recommended product wordmark.
 
 The construction guide follows the existing artwork’s monochrome palette and geometric lettering. The original font is unknown. The seven lowercase glyphs are custom outlines for these names, not a general text typeface.
 
