@@ -1,0 +1,427 @@
+{
+  "master_sha256": "43072b0300360e5ecfa7c1c4ab9402700f34489f677db9d9f5ec48f6e9cfdba0",
+  "assets": [
+    {
+      "path": "svg/loam-mark.svg",
+      "bytes": 664,
+      "sha256": "472e0c47c16c9bd762798592319102531ef265e78798486e122182292971c729"
+    },
+    {
+      "path": "svg/loam-mark-square.svg",
+      "bytes": 664,
+      "sha256": "e7619a9ff495e53332e550727ba36d1dca0e1f627777a463e1c3c15db312f05c"
+    },
+    {
+      "path": "svg/loam-mark-reverse.svg",
+      "bytes": 664,
+      "sha256": "e4e52aa99784af1106c1159c6a4ac45396d5a490ee3d258891d381310c2d1047"
+    },
+    {
+      "path": "svg/loam-mark-reverse-square.svg",
+      "bytes": 664,
+      "sha256": "aa2ecb28facb9fb07cfff457386b24426255f29b539eb0cc4e7427cb768f8504"
+    },
+    {
+      "path": "svg/loamcommons-mark.svg",
+      "bytes": 941,
+      "sha256": "285f40a7a91a823f2e87aca10a4c0b30ea00ebb462697fe95fddcd71a1bf0a3d"
+    },
+    {
+      "path": "svg/loamcommons-mark-square.svg",
+      "bytes": 941,
+      "sha256": "277fbc41154c97d03be1e82d46d343418611b098a91a92482496a159103e08e6"
+    },
+    {
+      "path": "svg/loamcommons-mark-reverse.svg",
+      "bytes": 941,
+      "sha256": "3be392be604b87ca56eb47c4362aa2faffe267225067038cd56bcdedd66ff11d"
+    },
+    {
+      "path": "svg/loamcommons-mark-reverse-square.svg",
+      "bytes": 941,
+      "sha256": "f7019635a2b3b46aa5377db40737e422a9f52a024c7e0794140be4f78140f409"
+    },
+    {
+      "path": "svg/loam-wordmark.svg",
+      "bytes": 1838,
+      "sha256": "7f69cdcba3f7f1eb56f62d9b72965ae4b0c2247c2fd8fee898d222758de1a106"
+    },
+    {
+      "path": "svg/loam-wordmark-reverse.svg",
+      "bytes": 1838,
+      "sha256": "84c445bff28df082e840b7640b55cd800156c9ab0ce2ac5978f71f3f6e333435"
+    },
+    {
+      "path": "svg/loamcommons-wordmark.svg",
+      "bytes": 3412,
+      "sha256": "8ac9ffca6e3dd845647884aac53b550caa2f48219df13b44d218c5dcae442948"
+    },
+    {
+      "path": "svg/loamcommons-wordmark-reverse.svg",
+      "bytes": 3412,
+      "sha256": "1763ac27d6a5cbf7b6c5ceff16fba751fc8a63299a1449ec8c28fc4db8a8e118"
+    },
+    {
+      "path": "comparison/comparison-symbol-beside.svg",
+      "bytes": 1975,
+      "sha256": "ef6a7fa4c47e33d9eceb8e26015ec3439b0fbccffbaab0ee359e3ff6c91fc969"
+    },
+    {
+      "path": "comparison/comparison-symbol-beside-reverse.svg",
+      "bytes": 1975,
+      "sha256": "34fe7404915a30f6cd2a39ce78a80b74cb7e95f97b0f813b12d8970691e92bb1"
+    },
+    {
+      "path": "png/loam-mark-24.png",
+      "bytes": 319,
+      "sha256": "4bf723f78fca04f4f12dc9af5ab6830df5177890935c6f7526efd975e35b9d0d",
+      "render_input": {
+        "source_svg": "svg/loam-mark-square.svg",
+        "source_sha256": "e7619a9ff495e53332e550727ba36d1dca0e1f627777a463e1c3c15db312f05c",
+        "width": 24,
+        "height": 24
+      }
+    },
+    {
+      "path": "png/loam-mark-48.png",
+      "bytes": 594,
+      "sha256": "a986ff964742ccebcd0d407ba82900799c162e1094323732dd5c5b715420ea11",
+      "render_input": {
+        "source_svg": "svg/loam-mark-square.svg",
+        "source_sha256": "e7619a9ff495e53332e550727ba36d1dca0e1f627777a463e1c3c15db312f05c",
+        "width": 48,
+        "height": 48
+      }
+    },
+    {
+      "path": "png/loam-mark-256.png",
+      "bytes": 2927,
+      "sha256": "273157172f1533cb9e551d0af3946678d8ded7bfa11535b80a9366cf0ea1f937",
+      "render_input": {
+        "source_svg": "svg/loam-mark-square.svg",
+        "source_sha256": "e7619a9ff495e53332e550727ba36d1dca0e1f627777a463e1c3c15db312f05c",
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "png/loam-mark-512.png",
+      "bytes": 6241,
+      "sha256": "3d3e2fc0b983b2702718f5b66cc60e5be65dea7adc8a9c7826224a19a68601ac",
+      "render_input": {
+        "source_svg": "svg/loam-mark-square.svg",
+        "source_sha256": "e7619a9ff495e53332e550727ba36d1dca0e1f627777a463e1c3c15db312f05c",
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "path": "png/loam-mark-reverse-24.png",
+      "bytes": 248,
+      "sha256": "e8e646046bf4e5ba85c26e9112cf4412b4b125301b90c73c047aaeb19b00d980",
+      "render_input": {
+        "source_svg": "svg/loam-mark-reverse-square.svg",
+        "source_sha256": "aa2ecb28facb9fb07cfff457386b24426255f29b539eb0cc4e7427cb768f8504",
+        "width": 24,
+        "height": 24
+      }
+    },
+    {
+      "path": "png/loam-mark-reverse-48.png",
+      "bytes": 449,
+      "sha256": "d718d4489ec896668dcbcc163fc6c666c0cb70c03a528cc55cee05a46122c9b2",
+      "render_input": {
+        "source_svg": "svg/loam-mark-reverse-square.svg",
+        "source_sha256": "aa2ecb28facb9fb07cfff457386b24426255f29b539eb0cc4e7427cb768f8504",
+        "width": 48,
+        "height": 48
+      }
+    },
+    {
+      "path": "png/loam-mark-reverse-256.png",
+      "bytes": 2463,
+      "sha256": "ebb337965f7bdfbf19dce41c7b53fdb27d24bc7e67c4984e57e808cd3f3b9712",
+      "render_input": {
+        "source_svg": "svg/loam-mark-reverse-square.svg",
+        "source_sha256": "aa2ecb28facb9fb07cfff457386b24426255f29b539eb0cc4e7427cb768f8504",
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "png/loam-mark-reverse-512.png",
+      "bytes": 5302,
+      "sha256": "6ea9adb51e615d20aad796519d03cacdb2c4eb49fa7967eae3142bcf7d106cfd",
+      "render_input": {
+        "source_svg": "svg/loam-mark-reverse-square.svg",
+        "source_sha256": "aa2ecb28facb9fb07cfff457386b24426255f29b539eb0cc4e7427cb768f8504",
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "path": "png/loamcommons-mark-48.png",
+      "bytes": 1180,
+      "sha256": "aa331c619e3e1c49a07795cfd31082c7d69597948010776dc23206f849d88df8",
+      "render_input": {
+        "source_svg": "svg/loamcommons-mark-square.svg",
+        "source_sha256": "277fbc41154c97d03be1e82d46d343418611b098a91a92482496a159103e08e6",
+        "width": 48,
+        "height": 48
+      }
+    },
+    {
+      "path": "png/loamcommons-mark-96.png",
+      "bytes": 2235,
+      "sha256": "af3fe881a6a850831ab341a3ab4a278ac9f8bb362e36d1e72c46d125554a02bd",
+      "render_input": {
+        "source_svg": "svg/loamcommons-mark-square.svg",
+        "source_sha256": "277fbc41154c97d03be1e82d46d343418611b098a91a92482496a159103e08e6",
+        "width": 96,
+        "height": 96
+      }
+    },
+    {
+      "path": "png/loamcommons-mark-256.png",
+      "bytes": 6119,
+      "sha256": "d1882ede2e625b27136f32d2026061691d5d2e8e7f17db44f5985b9c4dea266c",
+      "render_input": {
+        "source_svg": "svg/loamcommons-mark-square.svg",
+        "source_sha256": "277fbc41154c97d03be1e82d46d343418611b098a91a92482496a159103e08e6",
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "png/loamcommons-mark-512.png",
+      "bytes": 12853,
+      "sha256": "e61377631ac1ddfb0d6e467f4a9416bf5a15ace036c6830d72bd262ba35ec062",
+      "render_input": {
+        "source_svg": "svg/loamcommons-mark-square.svg",
+        "source_sha256": "277fbc41154c97d03be1e82d46d343418611b098a91a92482496a159103e08e6",
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "path": "png/loamcommons-mark-reverse-48.png",
+      "bytes": 825,
+      "sha256": "18c9c101c0c30a73d534cbf7764693d6dc1fb65cc71e6aff0b48f7435b78e846",
+      "render_input": {
+        "source_svg": "svg/loamcommons-mark-reverse-square.svg",
+        "source_sha256": "f7019635a2b3b46aa5377db40737e422a9f52a024c7e0794140be4f78140f409",
+        "width": 48,
+        "height": 48
+      }
+    },
+    {
+      "path": "png/loamcommons-mark-reverse-96.png",
+      "bytes": 1739,
+      "sha256": "df2d0ae1661f5dbef7e0662762ddae8417b738b9629e5782edfc4d551c868eae",
+      "render_input": {
+        "source_svg": "svg/loamcommons-mark-reverse-square.svg",
+        "source_sha256": "f7019635a2b3b46aa5377db40737e422a9f52a024c7e0794140be4f78140f409",
+        "width": 96,
+        "height": 96
+      }
+    },
+    {
+      "path": "png/loamcommons-mark-reverse-256.png",
+      "bytes": 4963,
+      "sha256": "0d076a62f9529486bb47644591ae59ab02f936147cdae3e3f0cfd7403ae174b7",
+      "render_input": {
+        "source_svg": "svg/loamcommons-mark-reverse-square.svg",
+        "source_sha256": "f7019635a2b3b46aa5377db40737e422a9f52a024c7e0794140be4f78140f409",
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "path": "png/loamcommons-mark-reverse-512.png",
+      "bytes": 10575,
+      "sha256": "ed48d84adb8046aa17576afdf89a2771bb797f6b974c40cb71f5210f0f9a39ab",
+      "render_input": {
+        "source_svg": "svg/loamcommons-mark-reverse-square.svg",
+        "source_sha256": "f7019635a2b3b46aa5377db40737e422a9f52a024c7e0794140be4f78140f409",
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "path": "png/loam-wordmark-144.png",
+      "bytes": 2645,
+      "sha256": "72c44a8fa4190eed95866847a8d9c3dc90cc0016a5fe15a2fb07fa20437fbeee",
+      "render_input": {
+        "source_svg": "svg/loam-wordmark.svg",
+        "source_sha256": "7f69cdcba3f7f1eb56f62d9b72965ae4b0c2247c2fd8fee898d222758de1a106",
+        "width": 144,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loam-wordmark-288.png",
+      "bytes": 5344,
+      "sha256": "9373ee82a68b6164130e2c6e8ca8be497f794c09445a2838c12689444c5b0726",
+      "render_input": {
+        "source_svg": "svg/loam-wordmark.svg",
+        "source_sha256": "7f69cdcba3f7f1eb56f62d9b72965ae4b0c2247c2fd8fee898d222758de1a106",
+        "width": 288,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loam-wordmark-640.png",
+      "bytes": 12163,
+      "sha256": "37364ee4be42d29b9d3f580f4aad9981795659d6e904ac87e10d2f8893cbf019",
+      "render_input": {
+        "source_svg": "svg/loam-wordmark.svg",
+        "source_sha256": "7f69cdcba3f7f1eb56f62d9b72965ae4b0c2247c2fd8fee898d222758de1a106",
+        "width": 640,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loam-wordmark-1280.png",
+      "bytes": 25720,
+      "sha256": "ff6e829f01cc0ead9f01d9b3775433e53aea74c0e9f62b084680459d4a846c74",
+      "render_input": {
+        "source_svg": "svg/loam-wordmark.svg",
+        "source_sha256": "7f69cdcba3f7f1eb56f62d9b72965ae4b0c2247c2fd8fee898d222758de1a106",
+        "width": 1280,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loam-wordmark-reverse-144.png",
+      "bytes": 1934,
+      "sha256": "e95a780dba105c1d4ad7aeceb56223053361988de58e1e9b09f462bf49bf0197",
+      "render_input": {
+        "source_svg": "svg/loam-wordmark-reverse.svg",
+        "source_sha256": "84c445bff28df082e840b7640b55cd800156c9ab0ce2ac5978f71f3f6e333435",
+        "width": 144,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loam-wordmark-reverse-288.png",
+      "bytes": 4059,
+      "sha256": "4d435c7960c5ba075620846cce62bbcbab647a0609f95d4ab44ed9ce086768aa",
+      "render_input": {
+        "source_svg": "svg/loam-wordmark-reverse.svg",
+        "source_sha256": "84c445bff28df082e840b7640b55cd800156c9ab0ce2ac5978f71f3f6e333435",
+        "width": 288,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loam-wordmark-reverse-640.png",
+      "bytes": 9692,
+      "sha256": "d474b4f57dbb25ad22425b8165ef54d9db2cbb1e7df98d611fc1e8b58dd8d25a",
+      "render_input": {
+        "source_svg": "svg/loam-wordmark-reverse.svg",
+        "source_sha256": "84c445bff28df082e840b7640b55cd800156c9ab0ce2ac5978f71f3f6e333435",
+        "width": 640,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loam-wordmark-reverse-1280.png",
+      "bytes": 20980,
+      "sha256": "c3958068d28b00343baaa57721f670f93deebbf5c968c324b515a0c2a8a79f17",
+      "render_input": {
+        "source_svg": "svg/loam-wordmark-reverse.svg",
+        "source_sha256": "84c445bff28df082e840b7640b55cd800156c9ab0ce2ac5978f71f3f6e333435",
+        "width": 1280,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loamcommons-wordmark-316.png",
+      "bytes": 6117,
+      "sha256": "de7b0db417db6c99d825075734815a268ac1c3bbd34f9d452b802c4b658f3217",
+      "render_input": {
+        "source_svg": "svg/loamcommons-wordmark.svg",
+        "source_sha256": "8ac9ffca6e3dd845647884aac53b550caa2f48219df13b44d218c5dcae442948",
+        "width": 316,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loamcommons-wordmark-632.png",
+      "bytes": 12649,
+      "sha256": "21eb8d461b2d7d832467dda25b047e91bf5dae9442eee4be7665e290d026245b",
+      "render_input": {
+        "source_svg": "svg/loamcommons-wordmark.svg",
+        "source_sha256": "8ac9ffca6e3dd845647884aac53b550caa2f48219df13b44d218c5dcae442948",
+        "width": 632,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loamcommons-wordmark-1280.png",
+      "bytes": 27120,
+      "sha256": "7ff8c3fada35b433a02ebf08eb3e76311422caa7fad4fd5f6ea8a2240b75671a",
+      "render_input": {
+        "source_svg": "svg/loamcommons-wordmark.svg",
+        "source_sha256": "8ac9ffca6e3dd845647884aac53b550caa2f48219df13b44d218c5dcae442948",
+        "width": 1280,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loamcommons-wordmark-2560.png",
+      "bytes": 56971,
+      "sha256": "54bb845dd7b82e15203a24861a1c3c86b4757335b8eb898be6031ef031342113",
+      "render_input": {
+        "source_svg": "svg/loamcommons-wordmark.svg",
+        "source_sha256": "8ac9ffca6e3dd845647884aac53b550caa2f48219df13b44d218c5dcae442948",
+        "width": 2560,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loamcommons-wordmark-reverse-316.png",
+      "bytes": 4380,
+      "sha256": "8601c7b0f786dc5fb6fc3a1a12d40561992566ecd5965a7f0c5931812b5f233d",
+      "render_input": {
+        "source_svg": "svg/loamcommons-wordmark-reverse.svg",
+        "source_sha256": "1763ac27d6a5cbf7b6c5ceff16fba751fc8a63299a1449ec8c28fc4db8a8e118",
+        "width": 316,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loamcommons-wordmark-reverse-632.png",
+      "bytes": 9599,
+      "sha256": "3146d32f79174cbb6a601791e17906cfe761b1b30afe4cee24abcbacaafcfc8e",
+      "render_input": {
+        "source_svg": "svg/loamcommons-wordmark-reverse.svg",
+        "source_sha256": "1763ac27d6a5cbf7b6c5ceff16fba751fc8a63299a1449ec8c28fc4db8a8e118",
+        "width": 632,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loamcommons-wordmark-reverse-1280.png",
+      "bytes": 21289,
+      "sha256": "f571ac042b0e3312ed31e632694146eacea98ac15168d3bc3a75ce39b7936a4f",
+      "render_input": {
+        "source_svg": "svg/loamcommons-wordmark-reverse.svg",
+        "source_sha256": "1763ac27d6a5cbf7b6c5ceff16fba751fc8a63299a1449ec8c28fc4db8a8e118",
+        "width": 1280,
+        "height": "derived aspect ratio"
+      }
+    },
+    {
+      "path": "png/loamcommons-wordmark-reverse-2560.png",
+      "bytes": 46728,
+      "sha256": "ee2834b3d7f1a3d8a348fd691abe9c0e6b796da56b8d2677f811ecbc205bcc4c",
+      "render_input": {
+        "source_svg": "svg/loamcommons-wordmark-reverse.svg",
+        "source_sha256": "1763ac27d6a5cbf7b6c5ceff16fba751fc8a63299a1449ec8c28fc4db8a8e118",
+        "width": 2560,
+        "height": "derived aspect ratio"
+      }
+    }
+  ]
+}

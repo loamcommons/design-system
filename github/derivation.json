@@ -1,0 +1,38 @@
+[
+  {
+    "upload": "loamcommons-avatar.png",
+    "size": [
+      512,
+      512
+    ],
+    "bytes": 13177,
+    "sha256": "895756aab4d86768763cef85141cdf7d5c004ccb02c8c02e8163e9007412e44a",
+    "canonical_source": "svg/loamcommons-mark-square.svg",
+    "canonical_sha256": "277fbc41154c97d03be1e82d46d343418611b098a91a92482496a159103e08e6",
+    "placement": [
+      0,
+      0,
+      512,
+      512
+    ],
+    "scaling": "uniform, centered; white background; original clear space retained"
+  },
+  {
+    "upload": "loam-social-preview.png",
+    "size": [
+      1280,
+      640
+    ],
+    "bytes": 30433,
+    "sha256": "438a2538ffbc22c9e2bd4e0df6b00040b06926190e9fbfe41cbda75f8f7a47d8",
+    "canonical_source": "svg/loam-wordmark.svg",
+    "canonical_sha256": "7f69cdcba3f7f1eb56f62d9b72965ae4b0c2247c2fd8fee898d222758de1a106",
+    "placement": [
+      80,
+      0,
+      1120,
+      640
+    ],
+    "scaling": "uniform, centered; white background; original clear space retained"
+  }
+]
