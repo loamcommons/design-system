@@ -1,0 +1,788 @@
+{
+  "claim": "Finite generated artifact integrity; not a proof of perception or renderer equivalence",
+  "source_hashes_unchanged": true,
+  "m_equal_counter_and_arch_constraint": true,
+  "glyphs": {
+    "L": {
+      "bounds": [
+        0.0,
+        0.0,
+        928.0,
+        1000.0
+      ],
+      "closed_contours": 1,
+      "cubic_segments": 4,
+      "path_sha256": "c2e80bb3ffa12c65b96cbb22276ee3444e0f3cd6937ee94909b998b5e890e47e"
+    },
+    "C": {
+      "bounds": [
+        284.0,
+        0.0,
+        930.0,
+        835.0
+      ],
+      "closed_contours": 1,
+      "cubic_segments": 7,
+      "path_sha256": "d81a98d456707d3b831c864f8cc7a17ad7d116946383b733d5b50f035294d287"
+    },
+    "l": {
+      "bounds": [
+        0.0,
+        -567.0,
+        267.0,
+        1000.0
+      ],
+      "closed_contours": 1,
+      "cubic_segments": 0,
+      "path_sha256": "12027bc2d800e9927781cfe28fa88c8b898d51f57c230582fa703d89a4ac2352"
+    },
+    "o": {
+      "bounds": [
+        0.0,
+        -25.0,
+        1066.0,
+        1025.0
+      ],
+      "closed_contours": 2,
+      "cubic_segments": 8,
+      "path_sha256": "26f9f5e35f00eab3f34eea1ecdf2e6c1d732eac674aff334232a0535c54850e4"
+    },
+    "a": {
+      "bounds": [
+        0.0,
+        -25.0,
+        1067.0,
+        1025.0
+      ],
+      "closed_contours": 2,
+      "cubic_segments": 8,
+      "path_sha256": "60f612d9c41c8ef9add0a459fcc674e8e61b46ae81beb6b4916be1257ddbc220"
+    },
+    "m": {
+      "bounds": [
+        0.0,
+        -25.0,
+        1458.0,
+        1000.0
+      ],
+      "closed_contours": 1,
+      "cubic_segments": 8,
+      "path_sha256": "cb89034101b429732a22319e1b65270964e564f31b533f4ac58cc639014d4009"
+    },
+    "c": {
+      "bounds": [
+        0.0,
+        -25.0,
+        918.0,
+        1025.0
+      ],
+      "closed_contours": 1,
+      "cubic_segments": 8,
+      "path_sha256": "4f51d0b78c59bb64b7844122304330c5ec93ecbed937cecf631cbd46d8a6d907"
+    },
+    "n": {
+      "bounds": [
+        0.0,
+        -25.0,
+        908.0,
+        1000.0
+      ],
+      "closed_contours": 1,
+      "cubic_segments": 4,
+      "path_sha256": "d7443fec905d15506db4a7f4ee41847ca76efd833b765884a126f193aaea4fc5"
+    },
+    "s": {
+      "bounds": [
+        0.0,
+        -25.0,
+        725.0,
+        1025.0
+      ],
+      "closed_contours": 1,
+      "cubic_segments": 12,
+      "path_sha256": "afce9ac6db7f8680bee9554af6dd7454d457a1b0c43fa2b0e191f3827009edb1"
+    }
+  },
+  "svg": [
+    {
+      "file": "comparison/comparison-symbol-beside-reverse.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        2840.936,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        3240.936,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "comparison/comparison-symbol-beside.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        2840.936,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        3240.936,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loam-mark-reverse-square.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        928.0,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        1400.0,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loam-mark-reverse.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        928.0,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        1328.0,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loam-mark-square.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        928.0,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        1400.0,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loam-mark.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        928.0,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        1328.0,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loam-wordmark-reverse.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        4194.08,
+        1022.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        4594.08,
+        1422.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loam-wordmark.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        4194.08,
+        1022.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        4594.08,
+        1422.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loamcommons-mark-reverse-square.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        930.0,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        1400.0,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loamcommons-mark-reverse.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        930.0,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        1330.0,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loamcommons-mark-square.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        930.0,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        1400.0,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loamcommons-mark.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        930.0,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        1330.0,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loamcommons-wordmark-reverse.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        6164.168000000001,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        6564.168,
+        1400.0
+      ],
+      "shared_L_exact": true
+    },
+    {
+      "file": "svg/loamcommons-wordmark.svg",
+      "ink_bounds": [
+        0.0,
+        0.0,
+        6164.168000000001,
+        1000.0
+      ],
+      "viewBox": [
+        0.0,
+        0.0,
+        6564.168,
+        1400.0
+      ],
+      "shared_L_exact": true
+    }
+  ],
+  "png": [
+    {
+      "file": "png/loam-mark-24.png",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loam-mark-256.png",
+      "size": [
+        256,
+        256
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loam-mark-48.png",
+      "size": [
+        48,
+        48
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loam-mark-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loam-mark-reverse-24.png",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loam-mark-reverse-256.png",
+      "size": [
+        256,
+        256
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loam-mark-reverse-48.png",
+      "size": [
+        48,
+        48
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loam-mark-reverse-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loam-wordmark-1280.png",
+      "size": [
+        1280,
+        397
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loam-wordmark-144.png",
+      "size": [
+        144,
+        45
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loam-wordmark-288.png",
+      "size": [
+        288,
+        90
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loam-wordmark-640.png",
+      "size": [
+        640,
+        199
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loam-wordmark-reverse-1280.png",
+      "size": [
+        1280,
+        397
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loam-wordmark-reverse-144.png",
+      "size": [
+        144,
+        45
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loam-wordmark-reverse-288.png",
+      "size": [
+        288,
+        90
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loam-wordmark-reverse-640.png",
+      "size": [
+        640,
+        199
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loamcommons-mark-256.png",
+      "size": [
+        256,
+        256
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loamcommons-mark-48.png",
+      "size": [
+        48,
+        48
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loamcommons-mark-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loamcommons-mark-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loamcommons-mark-reverse-256.png",
+      "size": [
+        256,
+        256
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loamcommons-mark-reverse-48.png",
+      "size": [
+        48,
+        48
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loamcommons-mark-reverse-512.png",
+      "size": [
+        512,
+        512
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loamcommons-mark-reverse-96.png",
+      "size": [
+        96,
+        96
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loamcommons-wordmark-1280.png",
+      "size": [
+        1280,
+        273
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loamcommons-wordmark-2560.png",
+      "size": [
+        2560,
+        546
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loamcommons-wordmark-316.png",
+      "size": [
+        316,
+        68
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loamcommons-wordmark-632.png",
+      "size": [
+        632,
+        135
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        21,
+        21,
+        21
+      ]
+    },
+    {
+      "file": "png/loamcommons-wordmark-reverse-1280.png",
+      "size": [
+        1280,
+        273
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loamcommons-wordmark-reverse-2560.png",
+      "size": [
+        2560,
+        546
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loamcommons-wordmark-reverse-316.png",
+      "size": [
+        316,
+        68
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    },
+    {
+      "file": "png/loamcommons-wordmark-reverse-632.png",
+      "size": [
+        632,
+        135
+      ],
+      "alpha": true,
+      "clear_border": true,
+      "opaque_color": [
+        255,
+        255,
+        255
+      ]
+    }
+  ],
+  "tool_versions": {
+    "python": "3.14.3",
+    "librsvg": "rsvg-convert version 2.61.1",
+    "imagemagick": "Version: ImageMagick 7.1.1-47 Q16-HDRI aarch64 22763 https://imagemagick.org"
+  },
+  "result": "PASS"
+}

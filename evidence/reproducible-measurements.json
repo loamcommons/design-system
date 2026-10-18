@@ -1,0 +1,304 @@
+[
+  {
+    "file": "loamcommons-logo.png",
+    "sha256": "deeb7c9c4d930a1b1728168270abbbea95c430f66a97230abfc355893d56c4c4",
+    "size": [
+      2172,
+      724
+    ],
+    "alpha_min_max": [
+      0,
+      255
+    ],
+    "L_bbox": [
+      153,
+      206,
+      434,
+      509
+    ],
+    "L_stem_px": 70,
+    "L_stem_over_height": 0.23102310231023102,
+    "L_width_over_height": 0.9273927392739274,
+    "component_bboxes": [
+      [
+        153,
+        206,
+        434,
+        509
+      ],
+      [
+        239,
+        206,
+        435,
+        459
+      ]
+    ],
+    "threshold_sensitivity": [
+      {
+        "threshold": 64,
+        "mark_union_bbox": [
+          153,
+          206,
+          435,
+          510
+        ]
+      },
+      {
+        "threshold": 128,
+        "mark_union_bbox": [
+          153,
+          206,
+          435,
+          509
+        ]
+      },
+      {
+        "threshold": 192,
+        "mark_union_bbox": [
+          153,
+          207,
+          434,
+          509
+        ]
+      }
+    ]
+  },
+  {
+    "file": "loamcommons-icon.png",
+    "sha256": "14c426daa63543e8cf8be7f576b520e76a77a52884f816076e43b326d231817c",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_min_max": [
+      255,
+      255
+    ],
+    "L_bbox": [
+      277,
+      280,
+      970,
+      1006
+    ],
+    "L_stem_px": 177,
+    "L_stem_over_height": 0.24380165289256198,
+    "L_width_over_height": 0.9545454545454546,
+    "component_bboxes": [
+      [
+        277,
+        280,
+        970,
+        1006
+      ],
+      [
+        486,
+        280,
+        978,
+        910
+      ]
+    ],
+    "threshold_sensitivity": [
+      {
+        "threshold": 64,
+        "mark_union_bbox": [
+          277,
+          281,
+          977,
+          1005
+        ]
+      },
+      {
+        "threshold": 128,
+        "mark_union_bbox": [
+          277,
+          280,
+          978,
+          1006
+        ]
+      },
+      {
+        "threshold": 192,
+        "mark_union_bbox": [
+          276,
+          280,
+          978,
+          1006
+        ]
+      }
+    ]
+  },
+  {
+    "file": "loam-mark.png",
+    "sha256": "9722e78399e84215d362f05732ddb596fc4114b32a620c93343fc75e6248be70",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_min_max": [
+      255,
+      255
+    ],
+    "L_bbox": [
+      274,
+      258,
+      981,
+      1007
+    ],
+    "L_stem_px": 183,
+    "L_stem_over_height": 0.24432576769025366,
+    "L_width_over_height": 0.9439252336448598,
+    "component_bboxes": [
+      [
+        274,
+        258,
+        981,
+        1007
+      ]
+    ],
+    "threshold_sensitivity": [
+      {
+        "threshold": 64,
+        "mark_union_bbox": [
+          274,
+          258,
+          980,
+          1006
+        ]
+      },
+      {
+        "threshold": 128,
+        "mark_union_bbox": [
+          274,
+          258,
+          981,
+          1007
+        ]
+      },
+      {
+        "threshold": 192,
+        "mark_union_bbox": [
+          274,
+          258,
+          981,
+          1007
+        ]
+      }
+    ]
+  },
+  {
+    "file": "loam-social-preview.png",
+    "sha256": "e55af680adb005d95d4f819478a746e8b46bcb2810f861f31cfa82f2ab1438aa",
+    "size": [
+      1774,
+      887
+    ],
+    "alpha_min_max": [
+      255,
+      255
+    ],
+    "L_bbox": [
+      628,
+      183,
+      1146,
+      705
+    ],
+    "L_stem_px": 135,
+    "L_stem_over_height": 0.25862068965517243,
+    "L_width_over_height": 0.9923371647509579,
+    "component_bboxes": [
+      [
+        628,
+        183,
+        1146,
+        705
+      ]
+    ],
+    "threshold_sensitivity": [
+      {
+        "threshold": 64,
+        "mark_union_bbox": [
+          628,
+          184,
+          1146,
+          704
+        ]
+      },
+      {
+        "threshold": 128,
+        "mark_union_bbox": [
+          628,
+          183,
+          1146,
+          705
+        ]
+      },
+      {
+        "threshold": 192,
+        "mark_union_bbox": [
+          628,
+          183,
+          1146,
+          705
+        ]
+      }
+    ]
+  },
+  {
+    "file": "loam-social-preview-wordmark.png",
+    "sha256": "06c53c8e608b5c9ce338f4a8b5c538674cbaf205ab806256d0d217ed2ebd9964",
+    "size": [
+      1774,
+      887
+    ],
+    "alpha_min_max": [
+      255,
+      255
+    ],
+    "L_bbox": [
+      323,
+      270,
+      633,
+      597
+    ],
+    "L_stem_px": 108,
+    "L_stem_over_height": 0.3302752293577982,
+    "L_width_over_height": 0.9480122324159022,
+    "component_bboxes": [
+      [
+        323,
+        270,
+        633,
+        597
+      ]
+    ],
+    "threshold_sensitivity": [
+      {
+        "threshold": 64,
+        "mark_union_bbox": [
+          323,
+          270,
+          632,
+          597
+        ]
+      },
+      {
+        "threshold": 128,
+        "mark_union_bbox": [
+          323,
+          270,
+          633,
+          597
+        ]
+      },
+      {
+        "threshold": 192,
+        "mark_union_bbox": [
+          322,
+          269,
+          633,
+          598
+        ]
+      }
+    ]
+  }
+]

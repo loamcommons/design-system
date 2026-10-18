@@ -1,0 +1,19 @@
+{
+  "method": "adaptive Bezier convex-hull lower bound, evaluated-point upper bound; ordinary binary floating arithmetic",
+  "L_to_o_at_x800": {
+    "lower": 28.4025,
+    "upper": 28.4125,
+    "tolerance": 0.01
+  },
+  "L_to_o_final": {
+    "lower": 92.1945,
+    "upper": 92.2045,
+    "tolerance": 0.01
+  },
+  "L_to_C": {
+    "lower": 48.0,
+    "upper": 48.0049,
+    "tolerance": 0.01
+  },
+  "units": "L height=1000"
+}
